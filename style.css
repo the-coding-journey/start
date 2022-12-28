@@ -18,3 +18,10 @@
     font-size: 30px;
     text-transform: uppercase;
 }
+
+.tcj-logo{
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 9px #00000052;
+    padding: 5px;
+}
